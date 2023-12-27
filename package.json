@@ -9,7 +9,7 @@
   "author": "Gurujot Singh",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.9.1",
+    "axios": "^1.6.3",
     "express": "^4.13.4",
     "fusioncharts": "^3.12.0",
     "react": "^0.14.7",
